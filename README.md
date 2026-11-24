@@ -40,7 +40,7 @@
 
 | 项目 | 是什么 | 技术 |
 | :-- | :-- | :-- |
-| [**mail**](https://github.com/Brot588/mail) | 原生桌面邮件客户端 | `Rust` · `GPUI` |
+| [**mail**](https://github.com/Brot588/mail-rs) | 原生桌面邮件客户端 | `Rust` · `GPUI` |
 | [**HowToLiveBetter**](https://github.com/Brot588/HowToLiveBetter) | 高性价比人生指南：长寿、理财、法律、医保…每条都标成本和证据等级 | `Markdown` |
 | [**Mygodot**](https://github.com/Brot588/Mygodot) | Godot Engine —— 拿来折腾的 | `C++` |
 
