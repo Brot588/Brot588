@@ -58,16 +58,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub
+## 📊 一些数字
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Brot588&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brot588&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-
 <img src="https://streak-stats.demolab.com?user=Brot588&theme=tokyonight&hide_border=true" />
 
+<p>
+  <img src="https://img.shields.io/github/followers/Brot588?style=flat-square&color=4ea1ff&label=followers" />
+  <img src="https://img.shields.io/github/stars/Brot588/CodePad?style=flat-square&color=e0b25c&label=CodePad%20stars" />
+  <img src="https://img.shields.io/github/last-commit/Brot588/CodePad?style=flat-square&color=2ea043&label=CodePad%20last%20commit" />
+</p>
+
 </div>
+
+> 想看更详细的统计，[点这里](https://github.com/Brot588?tab=repositories)。
 
 ## 📫 找我
 
