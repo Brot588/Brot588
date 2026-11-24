@@ -13,13 +13,13 @@
 
 ## 🔭 最近在做
 
-### [CodePad](https://github.com/Brot588/CodePad) —— Android 平板上的离线 IDE
+### [CodePad](https://github.com/Brot588/CodePad-Android) —— Android 平板上的离线 IDE
 
 > 把 VS Code 的体验搬进平板：Monaco 编辑器 + 内置 C/C++/Rust/Python/JS 工具链，
 > 没网也能编译、下断点、提交 Git。
 
-<a href="https://github.com/Brot588/CodePad">
-  <img src="https://raw.githubusercontent.com/Brot588/CodePad/main/docs/screenshot-git.png" alt="CodePad" width="100%" />
+<a href="https://github.com/Brot588/CodePad-Android">
+  <img src="https://raw.githubusercontent.com/Brot588/CodePad-Android/main/docs/screenshot-git.png" alt="CodePad" width="100%" />
 </a>
 
 - **真 gdb 调试**：gdbserver + 自研 DWARF 解析，Rust 的 `String` / `Vec` / 结构体能直接展开
@@ -29,11 +29,11 @@
 - 整个工具链随 APK 打包，**不需要 Termux、不需要 root**
 
 <p>
-  <a href="https://github.com/Brot588/CodePad/releases/latest">
+  <a href="https://github.com/Brot588/CodePad-Android/releases/latest">
     <img src="https://img.shields.io/badge/下载-APK-2ea043?style=for-the-badge&logo=android&logoColor=white" alt="Download" />
   </a>
-  <img src="https://img.shields.io/github/v/release/Brot588/CodePad?style=for-the-badge&color=4ea1ff" alt="Release" />
-  <img src="https://img.shields.io/github/license/Brot588/CodePad?style=for-the-badge&color=e0b25c" alt="License" />
+  <img src="https://img.shields.io/github/v/release/Brot588/CodePad-Android?style=for-the-badge&color=4ea1ff" alt="Release" />
+  <img src="https://img.shields.io/github/license/Brot588/CodePad-Android?style=for-the-badge&color=e0b25c" alt="License" />
 </p>
 
 ## 📦 其它东西
@@ -66,8 +66,8 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/Brot588?style=flat-square&color=4ea1ff&label=followers" />
-  <img src="https://img.shields.io/github/stars/Brot588/CodePad?style=flat-square&color=e0b25c&label=CodePad%20stars" />
-  <img src="https://img.shields.io/github/last-commit/Brot588/CodePad?style=flat-square&color=2ea043&label=CodePad%20last%20commit" />
+  <img src="https://img.shields.io/github/stars/Brot588/CodePad-Android?style=flat-square&color=e0b25c&label=CodePad%20stars" />
+  <img src="https://img.shields.io/github/last-commit/Brot588/CodePad-Android?style=flat-square&color=2ea043&label=CodePad%20last%20commit" />
 </p>
 
 </div>
@@ -76,7 +76,7 @@
 
 ## 📫 找我
 
-有问题或想法，开个 [Issue](https://github.com/Brot588/CodePad/issues) 或者发邮件都行。
+有问题或想法，开个 [Issue](https://github.com/Brot588/CodePad-Android/issues) 或者发邮件都行。
 
 <div align="center">
 
