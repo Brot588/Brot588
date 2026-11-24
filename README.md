@@ -15,7 +15,7 @@
 
 ### [CodePad](https://github.com/Brot588/CodePad-Android) —— Android 平板上的离线 IDE
 
-> 把 VS Code 的体验搬进平板：Monaco 编辑器 + 内置 C/C++/Rust/Python/JS 工具链，
+> 把 VS Code 的**编辑器**体验搬进平板：Monaco 编辑器 + 内置 C/C++/Rust/Python/JS 工具链，
 > 没网也能编译、下断点、提交 Git。
 
 <a href="https://github.com/Brot588/CodePad-Android">
