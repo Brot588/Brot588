@@ -5,7 +5,7 @@
 **把"重工具"塞进"小设备"的人** —— 写 Android 工具链、Rust 和一点点 C
 
 [![GitHub](https://img.shields.io/badge/GitHub-Brot588-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brot588)
-[![Email](https://img.shields.io/badge/Email-2912446595%40qq.com-4ea1ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:2912446595@qq.com)
+[![Email](https://img.shields.io/badge/Email-renbotao2005%40qq.com-4ea1ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:renbotao2005@qq.com)
 
 </div>
 
